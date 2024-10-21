@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 public class conexionp {
    
    Connection conn = null; 
- private String url = "jdbc:mysql://localhost:3306/pce"; // Cambia por el nombre de tu base de datos
+ private String url = "jdbc:mysql://localhost:3306/bdgym"; // Cambia por el nombre de tu base de datos
  private String user = "root"; // Usuario de MySQL
  private String password = ""; // Contraseña de MySQL
  
