@@ -13,6 +13,8 @@ public class conexionp {
  private String user = "root"; // Usuario de MySQL
  private String password = ""; // Contraseña de MySQL
  
+ // Antonio brazo de 0.5 cm
+ 
    
 public Connection getConnection() {
         

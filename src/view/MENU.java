@@ -231,13 +231,12 @@ public class MENU extends javax.swing.JFrame {
         MenuDesplegable.add(Dezplegable, new org.netbeans.lib.awtextra.AbsoluteConstraints(210, 10, 70, 30));
 
         jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/AvatarAdmin.png"))); // NOI18N
-        jLabel15.setPreferredSize(new java.awt.Dimension(150, 150));
-        MenuDesplegable.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 10, -1, -1));
+        MenuDesplegable.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 30, -1, -1));
 
         jLabel2.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
         jLabel2.setText("Fulanito Detal");
-        MenuDesplegable.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 170, -1, -1));
+        MenuDesplegable.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 180, -1, -1));
 
         jLabel16.setFont(new java.awt.Font("Yu Gothic UI", 0, 12)); // NOI18N
         jLabel16.setForeground(new java.awt.Color(62, 129, 171));
